@@ -119,5 +119,5 @@ function viewEmployees(){
 }
 
 function updateEmployeeRoles(){
-
+    connection.query('')
 }
